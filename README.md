@@ -1,6 +1,6 @@
 ### Hola, I am Aviral Mittal! 👋
 
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m a Web Devloper
 
 <!--
 **aviralmittal67/aviralmittal67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
